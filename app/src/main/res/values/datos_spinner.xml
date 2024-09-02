@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datos_spinner">
+        <item>Seleccione Ocupación</item>
+        <item>Ingeniero de sistemas</item>
+        <item>Ingeniero electrónico</item>
+        <item>Diseñador</item>
+        <item>Administrador de empresas</item>
+        <item>Biologo</item>
+        <item>Arquitecto</item>
+        <item>Ingeniero civil</item>
+        <item>Ingeniero industrial</item>
+        <item>Ingeniero de alimentos</item>
+        <item>Otro</item>
+
+
+
+
+    </string-array>
+
+
+</resources>

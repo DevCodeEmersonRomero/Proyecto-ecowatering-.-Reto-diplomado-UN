@@ -16,6 +16,13 @@
     <string name="lbl_crear_cuenta">¿No tienes cuenta?, Registrate</string>
 
     <!-- REGISTRO -->
+    <string name="Formulario">Registro</string>
+    <string name="Nombre">"Nombres y Apellidos "</string>
+    <string name="Correo">Correo electrónico</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Registrar">Registrar</string>
+
 
     <!-- ELECCION -->
 
